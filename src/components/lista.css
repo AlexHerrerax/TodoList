@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+
+.list-group-item{
+    background-color: #2a9d8f;
+}
+
+.lead{
+    color: #e9c46a;
+    font-weight: 500;
+}
